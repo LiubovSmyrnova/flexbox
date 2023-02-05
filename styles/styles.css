@@ -36,11 +36,111 @@
     margin: 20px;
 }
 .redbox2 {
-display: flex;
-width: 78px;
-height: 120px;
-background: #9D0208;
-box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.25);
-border-radius: 4px;
-margin: 10px;
+    display: flex;
+    width: 78px;
+    height: 120px;
+    background: #9D0208;
+    box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 4px;
+    margin: 10px;
+}
+.orangebox3 {
+    display: flex;
+    justify-content:flex-end;
+    align-items: center;
+    flex-direction: row;
+    height: 160px;
+    width: 468px;
+    background: #F48C06;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 8px;
+    margin: 20px;
+}
+.redbox3 {
+    display: flex;
+    width: 78px;
+    height: 78px;
+    background: #9D0208;
+    box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 4px;
+    margin: 10px;
+}
+.orangebox4 {
+    display: flex;
+    justify-content:space-between;
+    align-items: start;
+    flex-direction: row;
+    height: 160px;
+    width: 468px;
+    background: #F48C06;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 8px;
+    margin: 20px;
+}
+.redbox4 {
+    display: flex;
+    width: 78px;
+    height: 78px;
+    background: #9D0208;
+    box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 4px;
+    margin: 10px;
+}
+.orangebox5 {
+    display: flex;
+    justify-content:space-evenly;
+    align-items: center;
+    flex-direction: row;
+    height: 160px;
+    width: 468px;
+    background: #F48C06;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 8px;
+    margin: 20px;
+}
+.redbox5 {
+    display: flex;
+    width: 78px;
+    height: 120px;
+    background: #9D0208;
+    box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 4px;
+    margin: 10px;
+    justify-content: center;
+}
+.text {
+    width: 54px;
+    height: 14px;
+    left: 173px;
+    top: 504px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 14px;
+/* identical to box height */
+    color: #FFFFFF;
+}
+.orangebox6 {
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    flex-direction: row;
+    height: 160px;
+    width: 468px;
+    background: #F48C06;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 8px;
+    margin: 20px;
+}
+.redbox6 {
+    display: flex;
+    width: 78px;
+    height: 78px;
+    background: #9D0208;
+    box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 4px;
+    margin: 10px;
+    justify-content: center;
 }
