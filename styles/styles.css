@@ -144,3 +144,34 @@
     margin: 10px;
     justify-content: center;
 }
+.main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    height: 100%;
+    width: 100%;
+}
+.yellowbox {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    flex-direction: row;
+    width: 1152px;
+    height: 700px;
+    background: #FAA307;
+}
+.fiveblocks {
+    width: 273px;
+    height: 220px;
+    background-color: #03071E;
+    margin: 10px;
+}
+.backbox {
+    display: flex;
+    justify-content: flex-start;
+    height: 500px;
+    width: 900px;
+    margin-top: 120px;
+    margin-left: 146px;
+}
